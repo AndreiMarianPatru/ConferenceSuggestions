@@ -1,0 +1,34 @@
+<Project>
+  <PropertyGroup Label="Package Versions">
+    <AutoMapperPackageVersion>10.1.1</AutoMapperPackageVersion>
+    <AutoMapperExtensionsMicrosoftDependencyInjectionPackageVersion>8.1.1</AutoMapperExtensionsMicrosoftDependencyInjectionPackageVersion>
+    <BenchmarkDotNetPackageVersion>0.10.14</BenchmarkDotNetPackageVersion>
+    <EFCoreBulkExtensions>5.4.0</EFCoreBulkExtensions>
+    <FluentAssertionsPackageVersion>5.3.2</FluentAssertionsPackageVersion>
+    <FluentValidationPackageVersion>9.5.0</FluentValidationPackageVersion>
+    <HellangMiddlewareProblemDetails>6.2.0</HellangMiddlewareProblemDetails>
+    <IdentityServer4AccessTokenValidationPackageVersion>3.0.1</IdentityServer4AccessTokenValidationPackageVersion>
+    <JaegerPackageVersion>1.0.3</JaegerPackageVersion>
+    <MediatRPackageVersion>9.0.0</MediatRPackageVersion>
+    <MediatRExtensionsMicrosoftDependencyInjectionPackageVersion>9.0.0</MediatRExtensionsMicrosoftDependencyInjectionPackageVersion>
+    <MicrosoftAspNetCoreAppPackageVersion>2.1.5</MicrosoftAspNetCoreAppPackageVersion>
+    <MicrosoftCSharpPackageVersion>4.5.0</MicrosoftCSharpPackageVersion>
+    <MicrosoftEntityFrameworkPackagesVersion>5.0.9</MicrosoftEntityFrameworkPackagesVersion>
+    <MicrosoftExtensionsPackagesVersion>5.0.0</MicrosoftExtensionsPackagesVersion>
+    <MicrosoftVisualStudioAzureContainersToolsTargetsPackageVersion>1.11.1</MicrosoftVisualStudioAzureContainersToolsTargetsPackageVersion>
+    <MoqPackageVersion>4.8.2</MoqPackageVersion>
+    <NBBExtrasPackagesVersion>5.0.0</NBBExtrasPackagesVersion>
+    <NBBPackagesVersion>5.2.7</NBBPackagesVersion>
+    <NewtonsoftJsonPackageVersion>12.0.3</NewtonsoftJsonPackageVersion>
+    <OpenTracingContribPackageVersion>0.7.1</OpenTracingContribPackageVersion>
+    <ScrutorPackageVersion>3.3.0</ScrutorPackageVersion>
+    <SerilogAspNetCorePackageVersion>4.1.0</SerilogAspNetCorePackageVersion>
+    <SerilogExtensionsConsolePackageVersion>4.0.0</SerilogExtensionsConsolePackageVersion>
+    <SerilogExtensionsLoggingPackageVersion>4.0.0</SerilogExtensionsLoggingPackageVersion>
+    <SerilogPackageVersion>2.10.0</SerilogPackageVersion>
+    <SerilogSinksMSSqlServerPackageVersion>5.6.0</SerilogSinksMSSqlServerPackageVersion>
+    <SwashbuckleAspNetCorePackageVersion>6.2.1</SwashbuckleAspNetCorePackageVersion>
+    <XunitPackageVersion>2.4.0</XunitPackageVersion>
+    <XunitRunnerVisualStudioPackageVersion>2.4.0</XunitRunnerVisualStudioPackageVersion>
+  </PropertyGroup>
+</Project>

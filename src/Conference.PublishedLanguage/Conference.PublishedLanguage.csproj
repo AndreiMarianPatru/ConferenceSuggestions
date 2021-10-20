@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="$(FluentValidationPackageVersion)" />
+    <PackageReference Include="AutoMapper" Version="$(AutoMapperPackageVersion)" />
+    <PackageReference Include="NBB.Application.DataContracts" Version="$(NBBPackagesVersion)" />
+    <PackageReference Include="NBB.Messaging.Abstractions" Version="$(NBBPackagesVersion)" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="$(MicrosoftExtensionsPackagesVersion)" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Conference.Domain\Conference.Domain.csproj" />
+  </ItemGroup>
+</Project>
